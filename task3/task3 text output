@@ -1,0 +1,40 @@
+
+transaction hash: 0xfcfc6b607fe49c7aedbf5e63fa03b23511f7a614c6716475b0d5eef13fe9672f
+
+
+Contract address: 0x81e58917D1C8023cdD2B09e360DbeCf6041d1cA4
+
+
+ABI: [
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]

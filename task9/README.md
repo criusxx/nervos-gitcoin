@@ -2,7 +2,7 @@
 1,Withdraw command Screenshot of console output:
 
 
-<img width="935" alt="Withdraw" src="https://user-images.githubusercontent.com/86060421/128666027-136f1d9c-3c7b-4999-94ad-72f2b6c479b0.png">
+<img width="936" alt="withdraw" src="https://user-images.githubusercontent.com/86060421/128666187-c8f8ba15-075f-45ff-9ccb-4e95ebe15471.png">
 
 
 2,Layer2 eth address : 0xd1c8dd4D9eE96EdD776A86f6346662208F1266bd

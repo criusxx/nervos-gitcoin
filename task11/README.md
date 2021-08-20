@@ -8,7 +8,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyqvx8mrarzcpcvdmuu52lzuwfwmunpgm
 
 ###### 3, A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
 
-The first execution times out. Then I executed it again
+The first execution times out. Then I executed it again and the query by command was successful.
 
 <img width="938" alt="task11_0" src="https://user-images.githubusercontent.com/86060421/130203555-11828488-fb5a-4fe7-9cf9-96cbd92f2974.png">
 

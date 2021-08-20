@@ -8,10 +8,9 @@ https://explorer.nervos.org/aggron/address/ckt1qyqvx8mrarzcpcvdmuu52lzuwfwmunpgm
 
 ###### 3, A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
 
+The first execution times out. Then I executed it again
+
 <img width="938" alt="task11_0" src="https://user-images.githubusercontent.com/86060421/130203555-11828488-fb5a-4fe7-9cf9-96cbd92f2974.png">
-<img width="795" alt="task11_1" src="https://user-images.githubusercontent.com/86060421/130203566-2d11eb0a-190d-4ed9-9dc6-45e3c0242234.png">
-
-
 
 ###### 4,A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 

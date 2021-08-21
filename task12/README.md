@@ -112,7 +112,9 @@ At the completion of this step, your DApp is now capable of communicating with P
  Open the file and update this file,
 
     cd ~/projects/blockchain-upload-image/src/lib/contracts
-    vi SimpleStorageWrapper.ts  
+    vi SimpleNFTWrapper.ts  
+ update the following values for it:
+
     const DEFAULT_SEND_OPTIONS = {
     gas: 6000000
     };

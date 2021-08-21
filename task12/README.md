@@ -56,9 +56,13 @@ Install both using the follow commands:
  
 ### Step 4 — Edit **Configuration**
 
-Next, create a new configuration file and input the following values for it:
+create a new configuration file (config.ts) 
 
-
+    cd ~/projects/blockchain-upload-image/src
+    vi config.ts
+  
+input the following values for it:
+  
     export const CONFIG = {
     WEB3_PROVIDER_URL: 'https://godwoken-testnet-web3-rpc.ckbapp.dev'
     ROLLUP_TYPE_HASH: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a'

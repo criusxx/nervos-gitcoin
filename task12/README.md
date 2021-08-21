@@ -79,15 +79,13 @@ The rollup_type_hash and eth_account_lock are values that are also required for 
  We will update the main UI in the file,
 
      cd ~/projects/blockchain-upload-image/src/ui
-    vi app.tsx
+     vi app.tsx
  
  and input the following values for it:
 
 
     import { PolyjuiceHttpProvider } from '@polyjuice-provider/web3';
-
     import { AddressTranslator } from 'nervos-godwoken-integration';
-
     import { CONFIG } from '../config';
     
   now we need to add PolyjuiceHttpProvider to our DApp to utilize it for our web3 instance instead of web3.js.
@@ -113,7 +111,7 @@ At the completion of this step, your DApp is now capable of communicating with P
  
  Open the file and update this file,
 
-     cd ~/projects/blockchain-upload-image/src/lib/contracts
+    cd ~/projects/blockchain-upload-image/src/lib/contracts
     vi SimpleStorageWrapper.ts  
     const DEFAULT_SEND_OPTIONS = {
     gas: 6000000
@@ -133,7 +131,7 @@ The modified version of this file in my dapp is:
 
 Each Ethernet address can be translated into a Polyjuice address at layer 2 of Nervos We will use the nervos-godwoken-integration  AddressTranslator class to derive a Polyjuice address from an Ethernet address:
 
-     const addressTranslator = new AddressTranslator();
+    const addressTranslator = new AddressTranslator();
 
     const polyjuiceAddress = addressTranslator.ethAddressToGodwokenShortAddress(ethereumAddress);
 
